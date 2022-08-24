@@ -8,6 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class CandidatoTest {
 
+
     @Test
     void cadastrar() {
         List<Candidato> listaCandidatos = new ArrayList<Candidato>();
